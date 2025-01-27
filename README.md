@@ -92,7 +92,7 @@
 <p align="center">
 <a href="https://twitter.com/alinajjaa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alinajjaa2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/najjaaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najjaa ali" height="30" width="40" /></a>
-<a href="https://fb.com/ali najaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali najaa" height="30" width="40" /></a>
+<a href="https://fb.com/Ali Najjaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali najaa" height="30" width="40" /></a>
 <a href="https://instagram.com/ali_najjaa.rar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_najjaa.rar" height="30" width="40" /></a>
   
 </p>
