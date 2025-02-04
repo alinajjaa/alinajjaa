@@ -1,76 +1,109 @@
-<h1 align="center">🚀 Ali Najjaa 🚀</h1>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ali Najjaa</h1></summary>
+  </ul>
+</div>
+
+
+
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Passionate with learning new stuffs ..</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+
+- 🔭 I’m currently Studying on **ESPRIT**
+
+- 🌱 I’m currently learning **simfony , java**
+
+- 💬 Ask me about  **HTML,Css,PHP,Javascript,MySQL,C++,C**
+
+- 📫 How to reach me **najjaaali3@gmail.com**
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <strong>Étudiant Ingénieur | Développement Web & Mobile | Systèmes & Jeux Vidéo</strong>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alinajjaa&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alinajjaa&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alinajjaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=alinajjaa&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 </p>
 
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
 <p align="center">
-  <a href="https://github.com/alinajjaa">
-    <img src="https://img.shields.io/github/followers/alinajjaa?style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://www.linkedin.com/in/alinajjaa">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange" alt="Portfolio">
-  </a>
-</p>
-
----
-
-## 🌟 Qui suis-je ?
-
-🎓 Étudiant en **1ère année cycle ingénieur** à **ESPRIT** (École Supérieure Privée d'Ingénierie et de Technologie).  
-💡 Passionné par le **développement web, mobile, systèmes et jeux vidéo**.  
-🔍 Toujours en quête de **nouveaux défis et d'innovations technologiques**.  
-
----
-
-## 🛠️ Compétences Techniques  
-
-### 🌐 Développement Web  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2341735E.svg?style=flat&logo=database&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
-
-### 📱 Développement Mobile  
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%23025B9B.svg?style=flat&logo=flutter&logoColor=white)
-
-### 🔧 Programmation  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-
-### 🎮 Développement de Jeux  
-![SDL](https://img.shields.io/badge/SDL-%23007ACC.svg?style=flat&logo=SDL&logoColor=white)
-
-### 💻 Systèmes & Outils  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-%23D20000.svg?style=flat&logo=gnu&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
----
-
-## 📈 Statistiques GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinajjaa&show_icons=true&theme=radical" alt="Ali's GitHub stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinajjaa&layout=compact&theme=radical" alt="Top Langages">
+<a href="https://twitter.com/alinajjaa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alinajjaa2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/najjaaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najjaa ali" height="30" width="40" /></a>
+<a href="https://fb.com/Ali Najjaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali najaa" height="30" width="40" /></a>
+<a href="https://instagram.com/ali_najjaa.rar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_najjaa.rar" height="30" width="40" /></a>
+  
 </p>
 
 
-## 📬 Me Contacter  
+<!--profile visit count-->
 
-📩 **Email :** [najjaaali3@gmail.com](mailto:najjaaali3@gmail.com)  
-💼 **LinkedIn :** [Ali Najjaa](https://www.linkedin.com/in/alinajjaa)  
-📂 **Portfolio :** [À venir 🚧]  
 
----
 
-💡 *"Le meilleur moyen de prédire l'avenir, c'est de le créer."*  
-⭐️ **N'hésite pas à laisser un star ⭐️ sur mes projets si tu les trouves intéressants !**  
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+
