@@ -46,6 +46,16 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**IA & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Google ML Kit](https://img.shields.io/badge/-Google%20ML%20Kit%20(OCR)-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/-Tesseract%20OCR-000000?style=flat-square)
+![Anthropic Claude](https://img.shields.io/badge/-Claude%20API%20(LLM)-191919?style=flat-square)
+![Groq](https://img.shields.io/badge/-Groq%20(LLM)-F55036?style=flat-square)
+![Deep Learning CNN](https://img.shields.io/badge/-Deep%20Learning%20(CNN)-FF6F00?style=flat-square)
+![NLP](https://img.shields.io/badge/-NLP-9C27B0?style=flat-square)
+
 **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -56,9 +66,9 @@
 
 ### 📌 Projets phares
 
-- **[SafeDocs](https://github.com/alinajjaa/safedocs)** — Application mobile Flutter/FastAPI de gestion sécurisée de documents personnels (chiffrement AES-256, biométrie, OCR multilingue, classification NLP, rappels intelligents via LLM)
-- **[Cognivita](https://github.com/alinajjaa/Esprit-PIDEV-4SAE4-2026-COGNIVITA)** — Plateforme IA de détection précoce d'Alzheimer (Deep Learning CNN, microservices Spring Boot/Angular)
-- **[Wellbeing App](https://github.com/alinajjaa/Microservice-Project)** — Application de bien-être mental (8 microservices, chatbot IA, Socket.io, 16 conteneurs Docker)
+- **[SafeDocs](https://github.com/alinajjaa/safedocs)** — Application mobile Flutter/FastAPI de gestion sécurisée de documents personnels (chiffrement AES-256, biométrie, OCR multilingue via ML Kit/Tesseract, classification NLP via HuggingFace, rappels intelligents via Claude API)
+- **[Cognivita](https://github.com/alinajjaa/Esprit-PIDEV-4SAE4-2026-COGNIVITA)** — Plateforme IA de détection précoce d'Alzheimer (Deep Learning CNN avec TensorFlow, microservices Spring Boot/Angular)
+- **[Wellbeing App](https://github.com/alinajjaa/Microservice-Project)** — Application de bien-être mental (8 microservices, chatbot IA via Groq, Socket.io, 16 conteneurs Docker)
 - **Pipeline DevOps CI/CD** — Pipeline Jenkins automatisé (tests, SonarQube, Kubernetes, Grafana)
 
 ---
