@@ -57,8 +57,8 @@
 ### 📌 Projets phares
 
 - **[SafeDocs](https://github.com/alinajjaa/safedocs)** — Application mobile Flutter/FastAPI de gestion sécurisée de documents personnels (chiffrement AES-256, biométrie, OCR multilingue, classification NLP, rappels intelligents via LLM)
-- **Cognivita** — Plateforme IA de détection précoce d'Alzheimer (Deep Learning CNN, microservices Spring Boot/Angular)
-- **Wellbeing App** — Application de bien-être mental (8 microservices, chatbot IA, Socket.io, 16 conteneurs Docker)
+- **[Cognivita](https://github.com/alinajjaa/Esprit-PIDEV-4SAE4-2026-COGNIVITA)** — Plateforme IA de détection précoce d'Alzheimer (Deep Learning CNN, microservices Spring Boot/Angular)
+- **[Wellbeing App](https://github.com/alinajjaa/Microservice-Project)** — Application de bien-être mental (8 microservices, chatbot IA, Socket.io, 16 conteneurs Docker)
 - **Pipeline DevOps CI/CD** — Pipeline Jenkins automatisé (tests, SonarQube, Kubernetes, Grafana)
 
 ---
